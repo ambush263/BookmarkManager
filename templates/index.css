@@ -23,7 +23,7 @@ body{
 .content{
     background:#222;
 }
-#heading{
+.heading{
     height:50px;
     display:flex;
     justify-content: center;
