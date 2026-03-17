@@ -40,6 +40,17 @@ body{
 .linkInput{
     flex:1;
 }
+.nameInput{
+    flex:1;
+}
+.bookmarkTab{
+    padding-left: 15px;
+    height:30px;
+    display:flex;
+    gap : 10px;
+    justify-content: left;
+    align-items: center;
+}
 
 
 
